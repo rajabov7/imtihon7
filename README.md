@@ -73,3 +73,4 @@ export default defineConfig([
 ```
 # imtihon7
 # imtihon7oy
+# imtihon77
